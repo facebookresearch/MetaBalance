@@ -17,3 +17,7 @@ The technique of calculating the Moving Average of Gradient Magnitudes in this p
 ### Citation
 TBD
 
+## License
+
+See the [LICENSE](LICENSE) file for more details.
+The majority of SentAugment is licensed under CC-BY-NC. 
