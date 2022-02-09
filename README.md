@@ -19,5 +19,4 @@ TBD
 
 ## License
 
-See the [LICENSE](LICENSE) file for more details.
-The majority of SentAugment is licensed under CC-BY-NC. 
+See the [LICENSE](LICENSE) file for more details. The project is licensed under CC-BY-NC. 
